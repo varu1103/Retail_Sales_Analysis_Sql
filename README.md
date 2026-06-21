@@ -5,6 +5,9 @@ This project analyzes retail sales data using SQL to uncover business insights a
 The main goals of this project are:
 
  Database Setup — Create and structure a retail sales database.
+ 
  Data Cleaning — Identify and remove incomplete or null records.
+ 
  Exploratory Data Analysis (EDA) — Understand the structure and distribution of the data.
+ 
  Business Analysis — Answer business-focused questions using SQL queries.
